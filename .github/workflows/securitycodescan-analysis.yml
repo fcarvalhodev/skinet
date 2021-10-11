@@ -23,9 +23,6 @@ jobs:
           nuget-version: '5.x'
       - run: nuget restore skinet.sln
       - uses: microsoft/setup-msbuild@v1.0.3
-        with:
-         vs-version: '[16.4,16.5)'
-      
       - name: Set up projects for analysis
         uses: security-code-scan/security-code-scan-add-action@main
         
