@@ -34,8 +34,6 @@ jobs:
 
       - name: Upload sarif
         uses: github/codeql-action/upload-sarif@v1
-      - name: Setup .NET Core SDK
-        uses: actions/setup-dotnet@v1.8.2
         with:
          # Optional package source for which to set up authentication. Will consult any existing NuGet.config in the root of the repo and provide a temporary NuGet.config using the NUGET_AUTH_TOKEN environment variable as a ClearTextPassword
          source-url: optional
