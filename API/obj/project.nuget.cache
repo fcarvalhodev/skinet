@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "F2n3+aNu5mxZq0ZFHr4MYL1lH7/u/MS3fBQ4zJ64OT/9Kv9FSxEXecXQqzW5yFh1+w5LVuVoYWz0uPjBndqCiA==",
+  "dgSpecHash": "t9IPwHABcSF+V2fRh5vaxVWvr0QlAAs+Cv7FJ6hAvub4NKpE2vA3odpj8FdnRu60kN3b/OTa435QFZdQCMjR7Q==",
   "success": true,
   "projectFilePath": "/Users/fcarvalho/Documents/Workspace/Pessoal/NET/skinet/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/fcarvalho/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/fcarvalho/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.data.sqlite.core/5.0.10/microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.entityframeworkcore/5.0.10/microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.10/microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.10/microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
+    "/Users/fcarvalho/.nuget/packages/microsoft.entityframeworkcore.design/5.0.10/microsoft.entityframeworkcore.design.5.0.10.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.10/microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.entityframeworkcore.sqlite/5.0.10/microsoft.entityframeworkcore.sqlite.5.0.10.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/5.0.10/microsoft.entityframeworkcore.sqlite.core.5.0.10.nupkg.sha512",

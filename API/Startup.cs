@@ -16,12 +16,10 @@ namespace API
         public Startup(IConfiguration configuration)
         {
             _configuration = configuration;
-
         }
 
         public void ConfigureServices(IServiceCollection services)
         {
-
             services.AddControllers();
             services.AddDbContext<StoreContext>(config => config.UseSqlite(_configuration.GetConnectionString("DefaultConnection")));
             services.AddSwaggerGen(c =>
