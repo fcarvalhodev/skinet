@@ -5,9 +5,12 @@
 ## Usage
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Status
+
+[![SecurityCodeScan](https://github.com/fcarvalhodev/skinet/actions/workflows/securitycodescan-analysis.yml/badge.svg?branch=main)](https://github.com/fcarvalhodev/skinet/actions/workflows/securitycodescan-analysis.yml)
+
+[![CodeQL](https://github.com/fcarvalhodev/skinet/actions/workflows/codeql-analysis.yml/badge.svg?branch=main&event=deployment_status)](https://github.com/fcarvalhodev/skinet/actions/workflows/codeql-analysis.yml)
