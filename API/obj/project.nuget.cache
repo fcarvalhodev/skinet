@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GpMw7JC4miiB/YG4pvkbk1/5oL16TtbgaGc39+e3RO7/wqg4rYrw2XdlMSVIy/zkVUyZG54UB458dA8l+lrXqg==",
+  "dgSpecHash": "a31EHn9jHeeQfo2LAuUhFkjMS19ZigWl5PoeBV2YdAaX+1dERp2up2k95uVPwn5hPhUsfnsSUm2ZyhfENGdCtw==",
   "success": true,
   "projectFilePath": "/Users/fcarvalho/Documents/Workspace/Pessoal/NET/skinet/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/fcarvalho/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/fcarvalho/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/microsoft.data.sqlite.core/5.0.10/microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
@@ -38,7 +40,8 @@
     "/Users/fcarvalho/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/fcarvalho/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "/Users/fcarvalho/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/Users/fcarvalho/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/fcarvalho/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
