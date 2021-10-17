@@ -58,3 +58,5 @@
 /Users/fcarvalho/Documents/Workspace/Pessoal/NET/skinet/API/bin/Debug/net5.0/Infrastructure.dll
 /Users/fcarvalho/Documents/Workspace/Pessoal/NET/skinet/API/bin/Debug/net5.0/Infrastructure.pdb
 /Users/fcarvalho/Documents/Workspace/Pessoal/NET/skinet/API/bin/Debug/net5.0/Core.pdb
+/Users/fcarvalho/Documents/Workspace/Pessoal/NET/skinet/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/fcarvalho/Documents/Workspace/Pessoal/NET/skinet/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
