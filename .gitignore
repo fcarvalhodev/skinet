@@ -390,3 +390,9 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+Infrastructure/.DS_Store
+Infrastructure/.DS_Store
+Core/.DS_Store
+.gitignore
+.DS_Store
+.gitignore
