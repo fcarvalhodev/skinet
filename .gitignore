@@ -393,3 +393,9 @@ FodyWeavers.xsd
 Core/.DS_Store
 .DS_Store
 Infrastructure/.DS_Store
+API/bin
+API/obj
+Core/bin
+Core/obj
+Infrastructure/bin
+Infrastructure/obj
