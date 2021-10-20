@@ -399,3 +399,7 @@ Core/bin
 Core/obj
 Infrastructure/bin
 Infrastructure/obj
+Infrastructure/.DS_Store
+API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+API/.DS_Store
+.gitignore
