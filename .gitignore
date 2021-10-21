@@ -400,6 +400,11 @@ Core/obj
 Infrastructure/bin
 Infrastructure/obj
 Infrastructure/.DS_Store
-API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+*.cache
 API/.DS_Store
 .gitignore
+.DS_Store
+API/.DS_Store
+Infrastructure/.DS_Store
+*.cache
+API/obj/Debug/net5.0/API.AssemblyInfo.cs
